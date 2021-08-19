@@ -1,5 +1,10 @@
-body{background:#e1d6c8;}
-h1{color:#875454;font-size:3em;}
-h2{color:#545f87;}
-span{border-bottom:solid 3px #875454;}
-p{font-size:1em;}
+
+span.fs {font-size: small; }
+span.fm {font-size: medium; }
+span.f1 {font-size: large; }
+span.f2 {font-size: x-large; }
+span.f3 {font-size: xx-large; }
+
+
+
+
